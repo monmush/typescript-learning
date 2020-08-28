@@ -1,6 +1,6 @@
 # Type annotation in action
 
-##Data types 📖
+## Data types in JavaScript 📖
 
 ---
 
